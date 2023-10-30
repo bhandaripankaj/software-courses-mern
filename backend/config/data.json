@@ -1,0 +1,18 @@
+{
+  "Topics":[
+    {"name": "Web Development" },
+    {"name": "Data Science" },
+    {"name": "Mobile App Development" }
+  ],
+  "Speakers":[
+    {"name": "John Doe" },
+    {"name": "Jane Smith" },
+    {"name": "Bob Johnson" }
+  ],
+  "Courses":[
+    { "name": "React Fundamentals", "topicId": "", "priceRange": "$50-$100"},
+    { "name": "Introduction to Machine Learning", "topicId": "", "priceRange": "$75-$150" },
+    { "name": "iOS App Development with Swift", "topicId": "", "priceRange": "$100-$200"}
+  ]
+  
+}
